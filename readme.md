@@ -67,15 +67,15 @@
 
 	
 ### Screenshots
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real1.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real2.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real3.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real4.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real5.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real6.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real7.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real8.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real9.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real1.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real2.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real3.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real4.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real5.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real6.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real7.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real8.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real9.png)
 ![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real10.png)
 
 
