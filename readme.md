@@ -76,6 +76,6 @@
 ![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real7.png)
 ![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real8.png)
 ![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real9.png)
-![](https://github.com/WebDevSand/Real-Property-Management/tree/master/screenshots/real10.png)
+![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real10.png)
 
 
