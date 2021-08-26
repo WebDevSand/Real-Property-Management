@@ -1,6 +1,6 @@
 
 ### Functions: Core-Site Functions
-- Front-End Design (UI) – Core-Site, User Profile, Admin Panel and Blog
+- Front-End Design (UI) – Core-Site, User Profile, Admin Panel and Blog  
 - Register into System
 - Login in to System (Multi-level Authentication: Administrator & User)
 - Google reCAPTCHA Verification (V3 – Automatic User Validation)
