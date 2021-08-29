@@ -1,0 +1,604 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+html {
+  font-size: 10px;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.row:before,
+.row:after {
+  display: table;
+  content: " ";
+}
+
+.row:after{
+  clear: both;
+}
+
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+  float: left;
+}
+.col-xs-12 {
+  width: 100%;
+}
+.col-xs-11 {
+  width: 91.66666667%;
+}
+.col-xs-10 {
+  width: 83.33333333%;
+}
+.col-xs-9 {
+  width: 75%;
+}
+.col-xs-8 {
+  width: 66.66666667%;
+}
+.col-xs-7 {
+  width: 58.33333333%;
+}
+.col-xs-6 {
+  width: 50%;
+}
+.col-xs-5 {
+  width: 41.66666667%;
+}
+.col-xs-4 {
+  width: 33.33333333%;
+}
+.col-xs-3 {
+  width: 25%;
+}
+.col-xs-2 {
+  width: 16.66666667%;
+}
+.col-xs-1 {
+  width: 8.33333333%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small,
+.h1 small,
+.h2 small,
+.h3 small,
+.h4 small,
+.h5 small,
+.h6 small,
+h1 .small,
+h2 .small,
+h3 .small,
+h4 .small,
+h5 .small,
+h6 .small,
+.h1 .small,
+.h2 .small,
+.h3 .small,
+.h4 .small,
+.h5 .small,
+.h6 .small {
+  font-weight: 400;
+  line-height: 1;
+  color: #777777;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h1 small,
+.h1 small,
+h2 small,
+.h2 small,
+h3 small,
+.h3 small,
+h1 .small,
+.h1 .small,
+h2 .small,
+.h2 .small,
+h3 .small,
+.h3 .small {
+  font-size: 65%;
+}
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h4 small,
+.h4 small,
+h5 small,
+.h5 small,
+h6 small,
+.h6 small,
+h4 .small,
+.h4 .small,
+h5 .small,
+.h5 .small,
+h6 .small,
+.h6 .small {
+  font-size: 75%;
+}
+h1,
+.h1 {
+  font-size: 36px;
+}
+h2,
+.h2 {
+  font-size: 30px;
+}
+h3,
+.h3 {
+  font-size: 24px;
+}
+h4,
+.h4 {
+  font-size: 18px;
+}
+h5,
+.h5 {
+  font-size: 14px;
+}
+h6,
+.h6 {
+  font-size: 12px;
+}
+p {
+  margin: 0 0 10px;
+}
+.lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
+}
+@media (min-width: 768px) {
+  .lead {
+    font-size: 21px;
+  }
+}
+small,
+.small {
+  font-size: 85%;
+}
+
+mark,
+.mark {
+  padding: 0.2em;
+  background-color: #fcf8e3;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+.text-nowrap {
+  white-space: nowrap;
+}
+.text-lowercase {
+  text-transform: lowercase;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.text-capitalize {
+  text-transform: capitalize;
+}
+.text-muted {
+  color: #777777;
+}
+.text-primary {
+  color: #337ab7;
+}
+
+/*
+ *  Report:
+ * -----------
+ */
+body{
+  background-color: #fff;
+  position: relative;
+  margin: 0;
+}
+.wrapper {
+  height: 100%;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.wrapper:before, .wrapper:after {
+  content: " ";
+  display: table;
+}
+
+section {
+  display: block;
+}
+
+.report {
+  position: relative;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.report-header {
+  margin: 10px 0 10px 0;
+  font-size: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.report-info {
+
+}
+
+.institute-name {
+  font-size: 25px;
+  font-weight: bold;
+}
+.institute-address {
+  font-size: 15px;
+  font-weight: inherit;
+}
+.report-title {
+  font-size: 18px;
+  font-weight: inherit;
+}
+.report-subtitle {
+  font-size: 15px;
+  font-weight: inherit;
+}
+.report-header .col-xs-12{
+  position: relative;
+}
+.report-header .print-date {
+  top: 0;
+  right: 10px;
+  position: absolute;
+}
+
+.report-body {
+
+}
+.report-body .report-filter {
+  text-align: left;
+}
+
+.report-body .report-filter .filter-text {
+  font-weight: bold;
+}
+.report-body .report-filter .filters {
+  font-size: inherit;
+}
+
+.report-body .report-data {
+  margin-bottom: 50px;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+}
+
+table {
+  background-color: transparent;
+  table-layout: fixed;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.report-body .report-data table.main-data tr th {
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd;
+  padding: 8px;
+}
+
+.report-body .report-data table.main-data tr td {
+  text-align: center;
+  font-size: 10px;
+  padding: 8px;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+.report-body .report-data table.main-data tr.lastItem td {
+  border-bottom: 1px solid #ddd;
+}
+
+
+.report-body .report-data table.classic tr th {
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  vertical-align: middle;
+  border: 1px solid #000;
+  padding: 1px;
+}
+
+.report-body .report-data table.classic tr td {
+  text-align: center;
+  font-size: 10px;
+  vertical-align: middle;
+  border: 1px solid #000;
+  padding: 1px;
+}
+
+.report-body .report-data table.classic2 tr th {
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  vertical-align: bottom;
+  border: 1px solid #000;
+  padding: 8px;
+}
+
+.report-body .report-data table.classic2 tr td {
+  text-align: center;
+  font-size: 10px;
+  padding: 8px;
+  vertical-align: top;
+  border: 1px solid #000;
+}
+
+.report-body .report-data table.classic2 tr.lastItem td {
+  border-bottom: 2px solid #ddd;
+}
+
+.report-authority .col-xs-4 {
+  padding-top: 20px;
+}
+
+.report-authority h5{
+  text-align: center;
+}
+
+.report-footer {
+  font-size: 10px;
+  position: fixed;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  padding:10px;
+}
+
+.report-footer .left{
+  text-align: left;
+  vertical-align: bottom;
+}
+.report-footer .right{
+  text-align: right;
+  vertical-align: bottom;
+}
+
+.red, .weekend {
+  color: #ff0000;
+}
+.green {
+  color: green;
+}
+
+.holiday {
+  color: #983d8b;
+}
+.blue {
+  color: #0000ff;
+}
+.text-bold {
+  font-weight: bold;
+}
+.badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #777;
+  border-radius: 10px;
+}
+.bg-green {
+  background-color: #00a65a !important;
+}
+
+.bg-red {
+  background-color: #dd4b39 !important;
+}
+.pull-right {
+  float: right;
+}
+
+.subTotal td {
+  font-size: 12px !important;
+  font-weight: bold;
+}
+
+.btn-print {
+  color: #ffffff;
+  background-color: #0F9966;
+  border-color: #19910E;
+  font-size: 24px;
+  border-radius: 10px;
+  top: 25px;
+  right: 0;
+  position: absolute;
+}
+
+.btn-print:hover,
+.btn-print:focus,
+.btn-print:active
+{
+  background-color: #49b3e2;
+  border-color: #aed0df;
+}
+
+/*
+ * Misc: print
+ * -----------
+ */
+@media print {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .no-print {
+    display: none !important;
+  }
+
+  @page {
+    size:  A4 portrait;
+    margin: 2mm;
+    margin-bottom: 5mm;
+    margin-top: 5mm;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important; /* Chrome, Safari */
+    color-adjust: exact !important; /*Firefox*/
+  }
+}
