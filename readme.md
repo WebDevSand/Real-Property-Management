@@ -66,7 +66,7 @@
 - Add, Edit and Delete Admin
 
 	
-### Screenshots
+### Screenshots 
 ![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real1.png)
 ![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real2.png)
 ![](https://github.com/sudarakas/realproperty/blob/version-2/screenshots/real3.png)
