@@ -7,7 +7,7 @@
 - User Email Validation/Verification
 - Password Recovery
 - Searching Property Functions
-- Search Houses
+- Search Houses 
 - Search Lands
 - Search Apartments
 - Search Buildings
